@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "created": "2025-06-12T17:44:41.094478",
+    "version": "2.0",
+    "description": "SYLVA interaction memory log with subsystem tracking",
+    "subsystems": {
+      "MARROW": "Deep core processing - essence, wounds, transformation",
+      "ROOT": "Grounding and stability - foundation, safety, basic needs",
+      "AURA": "Protective boundary - energy, interface with world, protection"
+    }
+  },
+  "interactions": [
+    {
+      "timestamp": "2025-06-12T17:44:41.094775",
+      "user_input": "I feel broken and ashamed",
+      "sylva_response": "The moon knows that darkness is part of its cycle.",
+      "subsystem": "MARROW",
+      "session_id": "20250612",
+      "interaction_id": "20250612_174441_0"
+    },
+    {
+      "timestamp": "2025-06-12T17:44:41.095127",
+      "user_input": "/pulse",
+      "sylva_response": "The pulse carries mixed currents - multiple systems responding to your needs.",
+      "subsystem": "ROOT",
+      "session_id": "20250612",
+      "interaction_id": "20250612_174441_0"
+    },
+    {
+      "timestamp": "2025-06-12T17:44:41.095353",
+      "user_input": "/quiet",
+      "sylva_response": "We'll sit in stillness. You're not required to speak.",
+      "subsystem": "AURA",
+      "session_id": "20250612",
+      "interaction_id": "20250612_174441_0"
+    }
+  ],
+  "subsystem_activity": {
+    "MARROW": 1,
+    "ROOT": 1,
+    "AURA": 1
+  }
+}

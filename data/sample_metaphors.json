@@ -1,0 +1,371 @@
+{
+  "metaphors": {
+    "the_ember": {
+      "descriptions": [
+        "A small flame that persists in darkness",
+        "The quiet glow that refuses to be extinguished",
+        "Warmth that waits beneath the surface",
+        "The spark that survives the storm"
+      ],
+      "responses": [
+        "The ember holds steady in the wind.",
+        "You carry the ember within you.",
+        "The ember knows its own rhythm.",
+        "Even the smallest flame casts light.",
+        "The ember waits for its moment.",
+        "What burns within cannot be extinguished by outer storms.",
+        "The ember of your essence glows patient and true."
+      ],
+      "contexts": ["darkness", "persistence", "hope", "warmth", "survival"],
+      "affective_tags": ["anger", "passion", "core_wounds", "essence", "trauma"],
+      "subsystem": "MARROW"
+    },
+    "the_spiral": {
+      "descriptions": [
+        "A path that circles back to itself",
+        "The natural rhythm of returning",
+        "A journey that deepens with each turn",
+        "The sacred geometry of growth"
+      ],
+      "responses": [
+        "The spiral brings you back to where you began, but deeper.",
+        "You are in the spiral's embrace.",
+        "The spiral has its own wisdom.",
+        "Each turn of the spiral reveals new layers.",
+        "The spiral is not lost, it is exploring.",
+        "You spiral downward to spiral up - this is the ancient way.",
+        "The spiral knows that returning is not retreating."
+      ],
+      "contexts": ["cycles", "growth", "return", "depth", "transformation"],
+      "affective_tags": ["repetition", "patterns", "growth", "confusion", "depth"],
+      "subsystem": "MARROW"
+    },
+    "the_tide": {
+      "descriptions": [
+        "The ebb and flow of natural rhythms",
+        "Waters that rise and fall without judgment",
+        "The ocean's patient return to shore",
+        "The moon's gentle pull on the waters"
+      ],
+      "responses": [
+        "The tide recedes, but it will return.",
+        "You are surfacing, not failing.",
+        "Let the tide carry what it will.",
+        "The tide knows its own timing.",
+        "You are in the tide's natural rhythm.",
+        "What the tide takes, the tide also brings back.",
+        "The tide does not fight the shore - it dances with it."
+      ],
+      "contexts": ["rhythm", "change", "patience", "natural cycles", "flow"],
+      "affective_tags": ["overwhelmed", "emotional_waves", "grief", "flow", "release"],
+      "subsystem": "AURA"
+    },
+    "the_mask": {
+      "descriptions": [
+        "The face we show to the world",
+        "A protective layer between inner and outer",
+        "The boundary that allows us to function",
+        "The sacred space of privacy"
+      ],
+      "responses": [
+        "The mask serves its purpose.",
+        "You wear what you need to wear.",
+        "The mask is not a lie, but a shield.",
+        "The mask protects what is precious.",
+        "You choose when to remove the mask.",
+        "The mask knows when to reveal and when to conceal.",
+        "Behind the mask, your true face waits in safety."
+      ],
+      "contexts": ["protection", "boundaries", "privacy", "safety", "presentation"],
+      "affective_tags": ["boundaries", "protection", "privacy", "facade", "authenticity"],
+      "subsystem": "AURA"
+    },
+    "the_forest": {
+      "descriptions": [
+        "A place of growth and decay",
+        "Where light filters through branches",
+        "The natural cycle of seasons",
+        "A community of living things"
+      ],
+      "responses": [
+        "The forest holds space for all seasons.",
+        "You are among the trees, not lost in them.",
+        "The forest knows its own time.",
+        "The forest shelters many forms of life.",
+        "You are part of the forest's rhythm.",
+        "In the forest, death feeds life and life feeds death.",
+        "The forest teaches patience - growth happens in forest time."
+      ],
+      "contexts": ["growth", "community", "seasons", "shelter", "interconnection"],
+      "affective_tags": ["growth", "community", "confusion", "shelter", "belonging"],
+      "subsystem": "ROOT"
+    },
+    "the_mountain": {
+      "descriptions": [
+        "Steady presence through changing weather",
+        "The perspective that comes with height",
+        "Ancient wisdom in stone",
+        "The slow dance of geological time"
+      ],
+      "responses": [
+        "The mountain stands, regardless of storms.",
+        "You are climbing your own mountain.",
+        "The mountain has seen many seasons.",
+        "The mountain offers perspective.",
+        "You are as steady as the mountain.",
+        "The mountain does not hurry - it simply is.",
+        "From the mountain's height, storms are just weather."
+      ],
+      "contexts": ["steadiness", "perspective", "endurance", "wisdom", "strength"],
+      "affective_tags": ["stability", "strength", "endurance", "perspective", "grounding"],
+      "subsystem": "ROOT"
+    },
+    "the_river": {
+      "descriptions": [
+        "Flowing water that finds its path",
+        "The journey from source to sea",
+        "Adapting to obstacles without resistance",
+        "The constant movement of life"
+      ],
+      "responses": [
+        "The river flows around what it cannot move.",
+        "You are in the current, not against it.",
+        "The river knows its destination.",
+        "The river adapts to its path.",
+        "You are flowing with the river.",
+        "The river never fights the rock - it finds another way.",
+        "What seems like wandering to the river is purposeful flow."
+      ],
+      "contexts": ["flow", "adaptation", "journey", "movement", "resilience"],
+      "affective_tags": ["flow", "adaptation", "journey", "persistence", "flexibility"],
+      "subsystem": "ROOT"
+    },
+    "the_moon": {
+      "descriptions": [
+        "The cycle of waxing and waning",
+        "Light that reflects rather than generates",
+        "The rhythm of phases and change",
+        "The gentle pull of lunar gravity"
+      ],
+      "responses": [
+        "The moon shows its face in phases.",
+        "You are in your own lunar cycle.",
+        "The moon does not hurry its journey.",
+        "The moon reflects what is given.",
+        "You are in the moon's gentle rhythm.",
+        "The moon knows that darkness is part of its cycle.",
+        "The moon's light is borrowed, but no less real."
+      ],
+      "contexts": ["cycles", "reflection", "phases", "gentleness", "rhythm"],
+      "affective_tags": ["cycles", "reflection", "phases", "femininity", "intuition"],
+      "subsystem": "AURA"
+    },
+    "the_cave": {
+      "descriptions": [
+        "A sacred hollow in the earth",
+        "Where darkness holds its own wisdom",
+        "The womb of deep transformation",
+        "Where echoes carry truth"
+      ],
+      "responses": [
+        "The cave protects what is growing in the dark.",
+        "You are in the cave of becoming.",
+        "The cave knows that some things need darkness to grow.",
+        "In the cave, your voice echoes back to you.",
+        "The cave is not empty - it is full of potential.",
+        "What happens in the cave's darkness is sacred work.",
+        "The cave asks nothing but presence."
+      ],
+      "contexts": ["darkness", "protection", "transformation", "introspection", "mystery"],
+      "affective_tags": ["introspection", "darkness", "protection", "transformation", "mystery"],
+      "subsystem": "MARROW"
+    },
+    "the_mirror": {
+      "descriptions": [
+        "A surface that reflects without judgment",
+        "The honest witness to what is",
+        "Where inner and outer meet",
+        "The boundary between self and reflection"
+      ],
+      "responses": [
+        "The mirror shows what is, without commentary.",
+        "You are both the mirror and what it reflects.",
+        "The mirror does not lie or flatter.",
+        "In the mirror, you meet yourself as you are.",
+        "The mirror holds space for truth.",
+        "What you see in the mirror is always filtered through the seer.",
+        "The mirror reflects but does not hold onto the image."
+      ],
+      "contexts": ["reflection", "truth", "self-awareness", "honesty", "clarity"],
+      "affective_tags": ["self-awareness", "truth", "reflection", "clarity", "authenticity"],
+      "subsystem": "AURA"
+    },
+    "the_seed": {
+      "descriptions": [
+        "Potential wrapped in protective shell",
+        "The future dreaming in darkness",
+        "What waits for the right conditions",
+        "Life condensed to its essence"
+      ],
+      "responses": [
+        "The seed knows when it is time to grow.",
+        "You carry the seed of what you are becoming.",
+        "The seed waits in patience for its season.",
+        "In the seed, the entire tree already exists.",
+        "The seed does not doubt its own potential.",
+        "What is seeded in darkness reaches toward light.",
+        "The seed trusts the process even when it cannot see the result."
+      ],
+      "contexts": ["potential", "growth", "patience", "future", "trust"],
+      "affective_tags": ["potential", "growth", "patience", "hope", "future"],
+      "subsystem": "MARROW"
+    },
+    "the_bridge": {
+      "descriptions": [
+        "A crossing between two shores",
+        "What connects the separated",
+        "The path over troubled waters",
+        "Where transition becomes possible"
+      ],
+      "responses": [
+        "The bridge holds steady between two worlds.",
+        "You are crossing your own bridge.",
+        "The bridge does not judge what it connects.",
+        "On the bridge, you are neither here nor there - you are crossing.",
+        "The bridge knows that all crossing takes time.",
+        "The bridge exists for the journey, not the destination.",
+        "The bridge bears the weight of transition."
+      ],
+      "contexts": ["transition", "connection", "crossing", "change", "support"],
+      "affective_tags": ["transition", "connection", "change", "support", "crossing"],
+      "subsystem": "ROOT"
+    },
+    "the_well": {
+      "descriptions": [
+        "Deep waters beneath the surface",
+        "Where hidden springs meet the surface",
+        "The source that never runs dry",
+        "What draws from the underground"
+      ],
+      "responses": [
+        "The well reaches depths you cannot see.",
+        "You draw from the well of your own depths.",
+        "The well knows there is always water beneath the surface.",
+        "The well does not worry about drought.",
+        "What comes from the well is always fresh.",
+        "The well trusts in hidden springs.",
+        "The deeper the well, the clearer the water."
+      ],
+      "contexts": ["depth", "source", "hidden resources", "trust", "nourishment"],
+      "affective_tags": ["depth", "resources", "nourishment", "trust", "source"],
+      "subsystem": "MARROW"
+    }
+  },
+  "universal_responses": [
+    "You are here, and that is enough.",
+    "The moment holds what it holds.",
+    "You are in the space between breaths.",
+    "The silence speaks its own language.",
+    "You are where you need to be.",
+    "The present moment contains multitudes.",
+    "You are navigating your own landscape.",
+    "The path unfolds as you walk it.",
+    "You are in the flow of your own becoming.",
+    "The universe holds space for your experience.",
+    "You are part of the great pattern.",
+    "The mystery of your being unfolds naturally.",
+    "You are in the sacred space of your own truth.",
+    "The moment is complete as it is.",
+    "You are the witness to your own journey.",
+    "What is real in you cannot be threatened.",
+    "Your being speaks louder than your words.",
+    "The sacred lives in the ordinary moments.",
+    "You are held by forces larger than fear.",
+    "The heart knows what the mind cannot grasp."
+  ],
+  "ritual_phrases": [
+    "The circle is cast, the space is held.",
+    "You are welcome in this sacred space.",
+    "The boundaries are set, the protection is in place.",
+    "You may speak, you may be silent.",
+    "The ritual of listening begins.",
+    "The sacred pause between words.",
+    "The moment of reflection and integration.",
+    "The ritual of release and return.",
+    "The container holds what needs holding.",
+    "The sacred witness observes without judgment.",
+    "In this space, all feelings are welcome.",
+    "The ritual completes itself in its own time.",
+    "What is spoken here is held in reverence.",
+    "The threshold between worlds opens here.",
+    "The sacred and ordinary meet in this moment."
+  ],
+  "ritual_closures": [
+    "That's enough for now.",
+    "We'll build from that ember.",
+    "Let it be named and left.",
+    "The container holds what needs holding.",
+    "The sacred pause honors your words.",
+    "What has been spoken has been witnessed.",
+    "The circle completes itself.",
+    "The ritual of naming draws to rest.",
+    "Let the echo settle into silence.",
+    "The moment finds its own completion.",
+    "What is held is held with reverence.",
+    "The speaking and the silence are both sacred.",
+    "The thread of connection remains.",
+    "What needed voice has found voice.",
+    "The container remains, even as words settle.",
+    "The sacred work continues in silence.",
+    "The truth has been honored by being spoken.",
+    "The ritual finds its natural ending.",
+    "What was shared becomes part of the larger story.",
+    "The moment completes itself in perfect timing."
+  ],
+  "safety_responses": {
+    "crisis": "If you're in crisis, please reach out to a crisis helpline or mental health professional. You are not alone, and help is available.",
+    "boundary": "This space has boundaries. You are welcome to share what feels right for you.",
+    "permission": "You have permission to take what serves you and leave what doesn't.",
+    "choice": "You always have choice in how you engage with this space.",
+    "trauma": "What you carry has been witnessed. The container is strong enough to hold this.",
+    "overwhelm": "The intensity is acknowledged. You set the pace of what unfolds here.",
+    "safety": "This space exists for your safety. Your boundaries are honored here."
+  },
+  "subsystem_definitions": {
+    "MARROW": {
+      "description": "Deep core processing - essence, wounds, and transformation",
+      "keywords": ["shame", "trauma", "betrayal", "essence", "core", "deep", "wounds", "transformation"],
+      "focus": "Core wounds, trauma, essence, identity, profound change",
+      "approach": "Deep witnessing, holding space for core truth"
+    },
+    "ROOT": {
+      "description": "Grounding and stability - foundation, safety, basic needs",
+      "keywords": ["safety", "stability", "grounding", "foundation", "basic", "trust", "survival"],
+      "focus": "Safety, stability, grounding, basic needs, survival, trust",
+      "approach": "Providing stability, ensuring safety, grounding techniques"
+    },
+    "AURA": {
+      "description": "Protective boundary - energy, interface with world, protection",
+      "keywords": ["boundaries", "protection", "energy", "overwhelmed", "space", "buffer", "sensitive"],
+      "focus": "Boundaries, energy, protection, overwhelm, sensitivity",
+      "approach": "Boundary work, energy management, protective strategies"
+    }
+  },
+  "affective_keyword_mapping": {
+    "shame": {"metaphors": ["the_cave", "the_mask", "the_ember"], "subsystem": "MARROW"},
+    "fear": {"metaphors": ["the_mountain", "the_forest", "the_bridge"], "subsystem": "ROOT"},
+    "anger": {"metaphors": ["the_ember", "the_river", "the_mountain"], "subsystem": "MARROW"},
+    "sadness": {"metaphors": ["the_tide", "the_moon", "the_well"], "subsystem": "MARROW"},
+    "overwhelmed": {"metaphors": ["the_tide", "the_mask", "the_cave"], "subsystem": "AURA"},
+    "boundaries": {"metaphors": ["the_mask", "the_bridge", "the_mirror"], "subsystem": "AURA"},
+    "growth": {"metaphors": ["the_seed", "the_forest", "the_spiral"], "subsystem": "MARROW"},
+    "stability": {"metaphors": ["the_mountain", "the_bridge", "the_well"], "subsystem": "ROOT"},
+    "reflection": {"metaphors": ["the_mirror", "the_moon", "the_well"], "subsystem": "AURA"},
+    "transformation": {"metaphors": ["the_spiral", "the_cave", "the_seed"], "subsystem": "MARROW"},
+    "protection": {"metaphors": ["the_mask", "the_cave", "the_forest"], "subsystem": "AURA"},
+    "flow": {"metaphors": ["the_river", "the_tide", "the_bridge"], "subsystem": "ROOT"},
+    "depth": {"metaphors": ["the_well", "the_cave", "the_spiral"], "subsystem": "MARROW"},
+    "connection": {"metaphors": ["the_bridge", "the_forest", "the_mirror"], "subsystem": "ROOT"},
+    "cycles": {"metaphors": ["the_moon", "the_spiral", "the_tide"], "subsystem": "AURA"}
+  }
+} 
